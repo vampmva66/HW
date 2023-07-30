@@ -1,0 +1,15 @@
+C:\Users\minae\Desktop\C#_semHW\C#_semHW2\bin\Debug\net6.0\C#_semHW2.exe
+C:\Users\minae\Desktop\C#_semHW\C#_semHW2\bin\Debug\net6.0\C#_semHW2.deps.json
+C:\Users\minae\Desktop\C#_semHW\C#_semHW2\bin\Debug\net6.0\C#_semHW2.runtimeconfig.json
+C:\Users\minae\Desktop\C#_semHW\C#_semHW2\bin\Debug\net6.0\C#_semHW2.dll
+C:\Users\minae\Desktop\C#_semHW\C#_semHW2\bin\Debug\net6.0\C#_semHW2.pdb
+C:\Users\minae\Desktop\C#_semHW\C#_semHW2\obj\Debug\net6.0\C#_semHW2.csproj.AssemblyReference.cache
+C:\Users\minae\Desktop\C#_semHW\C#_semHW2\obj\Debug\net6.0\C#_semHW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minae\Desktop\C#_semHW\C#_semHW2\obj\Debug\net6.0\C#_semHW2.AssemblyInfoInputs.cache
+C:\Users\minae\Desktop\C#_semHW\C#_semHW2\obj\Debug\net6.0\C#_semHW2.AssemblyInfo.cs
+C:\Users\minae\Desktop\C#_semHW\C#_semHW2\obj\Debug\net6.0\C#_semHW2.csproj.CoreCompileInputs.cache
+C:\Users\minae\Desktop\C#_semHW\C#_semHW2\obj\Debug\net6.0\C#_semHW2.dll
+C:\Users\minae\Desktop\C#_semHW\C#_semHW2\obj\Debug\net6.0\refint\C#_semHW2.dll
+C:\Users\minae\Desktop\C#_semHW\C#_semHW2\obj\Debug\net6.0\C#_semHW2.pdb
+C:\Users\minae\Desktop\C#_semHW\C#_semHW2\obj\Debug\net6.0\C#_semHW2.genruntimeconfig.cache
+C:\Users\minae\Desktop\C#_semHW\C#_semHW2\obj\Debug\net6.0\ref\C#_semHW2.dll
